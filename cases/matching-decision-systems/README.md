@@ -2,6 +2,10 @@
 
 **Status: production pattern, prototypes.** Praxia builds decision engines that transform structured and conversational input into ranked, explained recommendations and operational next actions.
 
+![Synthetic screenshot](screenshot.png)
+
+*Screenshot rebuilt with synthetic data for this case study.*
+
 ## Architecture
 
 ```mermaid

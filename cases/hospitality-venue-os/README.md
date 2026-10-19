@@ -2,6 +2,10 @@
 
 **Status: prototype.** Interactive prototype with synthetic data. Integrations and AI features are designed and partly simulated, not deployed.
 
+![Synthetic screenshot](screenshot.png)
+
+*Screenshot rebuilt with synthetic data for this case study.*
+
 ## Problem
 
 Hotels, restaurants and event venues run on disconnected tools: point of sale, bookings, staff rotas, supplier invoices, spreadsheets for finance. Management sees the numbers weeks late.

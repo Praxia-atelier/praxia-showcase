@@ -2,6 +2,10 @@
 
 **Status: production.** *Architecture inspired by a production deployment.* All names, figures and visuals on this page are synthetic.
 
+![Synthetic screenshot](screenshot.png)
+
+*Screenshot rebuilt with synthetic data for this case study.*
+
 ## Problem
 
 A field service business (installations, repairs, on-site work) runs on email, phone photos, paper quotes and supplier invoices. The owner spends evenings typing data from one place into another, quote requests wait for days, and supplier invoices pile up until the quarterly deadline with the accountant.

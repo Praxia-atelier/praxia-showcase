@@ -2,6 +2,10 @@
 
 **Status: production, internal.** Praxia runs its own commercial process on this system. All visuals on this page use synthetic data.
 
+![Synthetic screenshot](screenshot.png)
+
+*Screenshot rebuilt with synthetic data for this case study.*
+
 ## Problem
 
 A small team cannot research, qualify, write to and follow up with every relevant company by hand, and generic sales tools automate volume, not judgement.
