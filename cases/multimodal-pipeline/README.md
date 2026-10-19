@@ -1,4 +1,4 @@
-# Multimodal AI pipeline (AI Labs)
+# Multimodal AI pipeline (experiment)
 
 **Status: internal tool, experiment.** Architecture and sample output only.
 

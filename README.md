@@ -14,7 +14,7 @@ flowchart LR
   Core --> PS[Production systems]
   Core --> V[Vertical operating systems]
   Core --> D[Decision systems]
-  Core --> L[AI Labs]
+  Core --> L[Experiments]
 ```
 
 Every case states its status honestly: **production**, **prototype** or **experiment**. All names, figures and screenshots in this repository are synthetic.
@@ -48,7 +48,7 @@ Every case states its status honestly: **production**, **prototype** or **experi
 |---|---|---|
 | [Matching & Decision Systems](cases/matching-decision-systems) | Turning structured and conversational input into explained, ranked recommendations | Production pattern · prototypes |
 
-## AI Labs
+## Experiments
 
 | Case | What it proves | Status |
 |---|---|---|
@@ -69,4 +69,4 @@ Praxia builds intelligent operating systems for real businesses. [praxia-atelier
 
 ---
 
-© 2026 Praxia Atelier. Case studies and diagrams in this repository are provided for information only; all rights reserved. Product names, figures and visuals are illustrative.
+© 2026 REACTION CONTROL SL (Praxia Atelier). Case studies and diagrams in this repository are provided for information only; all rights reserved. Product names, figures and visuals are illustrative.
