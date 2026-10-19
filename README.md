@@ -63,6 +63,10 @@ Every case states its status honestly: **production**, **prototype** or **experi
 | Agent Core runtime, interfaces, basic providers, examples | Product source code, data models, prompts, scoring, pricing, integrations, multi-tenant and white-label infrastructure |
 | Architecture diagrams and case studies in this repository | Customer data, customer names, production screenshots |
 
+## Contact
+
+Want to see a system running or talk about your business? [WhatsApp](https://wa.me/34650017962?text=Hola%2C%20vengo%20de%20GitHub%20(Praxia%20Showcase)) · [praxia.atelier@gmail.com](mailto:praxia.atelier@gmail.com)
+
 ## About Praxia
 
 Praxia builds intelligent operating systems for real businesses. [praxia-atelier.net](https://praxia-atelier.net)
